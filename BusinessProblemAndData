@@ -1,0 +1,26 @@
+Introduction/Business Problem:
+
+Business Problem :- Setting up a beer shop in locality where price for drink is premium
+
+Discussion:-
+1. Opening up shop require a huge investment and time to identify an area and doing the setup.
+2. If the area in which the shop is going to open is not having a good sale then it affect the business with a huge overhead cost.
+3. There is cost involve in opening and closing shops 
+4. To minimize this cost overhead we need to identify area where we should setup the shop
+5. Business has identified that opening up shop in neighborhood where price of drink is high will generate better business and chances of closing it down is very less
+6. We have to come up with solution to identify the area in which to open the shop
+
+
+
+
+Data:
+
+Data setup:- We will get all the Beer Bar near Hyderabad
+
+Discussion:
+1. Get information of all the beer bar near Hyderabad from foursquare.
+2. Set the url filter with Beer Bar in foursquare.
+3. Get the location of Hyderabad and create url for api in foursquare
+4. Get the price information of all the data generated
+5. Create a data frame with name, lat, log, price, rating and state.
+6. Save this data in a file.
